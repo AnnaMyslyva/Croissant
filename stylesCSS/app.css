@@ -21,3 +21,7 @@ a {
   display: flex;
   justify-content: space-evenly;
 }
+
+img {
+  width: 850px;
+}
